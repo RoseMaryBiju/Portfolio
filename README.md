@@ -8,7 +8,8 @@ Skills Section: Showcases my technical skills and competencies, helping visitors
 Contact Information: Provides ways for visitors to get in touch with me, such as through email or social media profiles.
 
 Technologies Used
-HTML: Used for creating the structure and content of the web pages.
+
+HTML: Used for creating the structure and content of the web pages,
 CSS: Styles the layout and appearance of the website, including colors, fonts, and spacing.
 JavaScript: Adds interactivity and dynamic behavior to the website, such as animations and form validation.
 ![Screenshot 2024-04-23 102154](https://github.com/RoseMaryBiju/PRODIGY_WD_04/assets/114492532/3a96a2ad-b5d5-4f6b-94a0-126b19f230bd)
