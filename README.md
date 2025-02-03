@@ -1,4 +1,4 @@
-# PRODIGY_WD_04
+# Portfolio website
 Welcome to my portfolio website repository! This repository contains the source code for my personal portfolio website, showcasing my projects, skills, and experiences.
 My portfolio website is built using HTML, CSS, and JavaScript. It serves as a showcase of my work, allowing visitors to learn more about me, my skills, and the projects I've worked on.
 
